@@ -4,7 +4,7 @@
 
 
 # Para emular de manera correcta en Android Studio
-
+(El dispositivo ya debe de estar iniciado)
  * `npx ionic cap sync`
  *  `npx ionic cap run android`
 
