@@ -22,7 +22,10 @@
 
 --Ignorar--
 
-*npm install @capacitor/android
+* npm install @capacitor/android
+
 *npx cap add android
+
 *npm install @capacitor-mlkit/barcode-scanning
+
 *npx ionic cap sync
